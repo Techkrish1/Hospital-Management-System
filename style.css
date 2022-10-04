@@ -416,3 +416,10 @@ header{
     color: rgb(10,88,202);
     margin-left: 6px;
 }
+
+.foot-text
+{
+    margin-top: 10px;
+    text-align: center;
+    
+}
